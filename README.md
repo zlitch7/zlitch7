@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @zlitch7
+I’m @zlitch7
 I am a Indie Game Developer
